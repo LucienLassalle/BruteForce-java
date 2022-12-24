@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BruteForce.iml" filepath="$PROJECT_DIR$/BruteForce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BruteForce-java.iml" filepath="$PROJECT_DIR$/BruteForce-java.iml" />
     </modules>
   </component>
 </project>
